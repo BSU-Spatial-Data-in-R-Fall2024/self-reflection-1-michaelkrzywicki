@@ -21,7 +21,7 @@ This Course
 
 Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
 
-I used R in Biometry and Eco Stats last year. Those were my first exposures to it. I would describe myself as "familiarish but not confident". My favorite thing about it so far is the powerful and flexible data visualization features. As someone who spent years making graphs in excel for reports, I really appreciate ggplot.
+I used R in Biometry and Eco Stats last year. Those were my first exposures to it. I would describe myself as "familiarish but not confident". My favorite thing about it so far is the powerful and flexible data visualization features. As someone who spent years making graphs in excel for reports, I really appreciate ggplot. 
 
 I think my biggest obstacle is syntax issues and remembering the steps I need to take to get things done. I could be a better annotator.
 
