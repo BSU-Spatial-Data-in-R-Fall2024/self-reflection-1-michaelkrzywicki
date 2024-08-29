@@ -1,0 +1,52 @@
+---
+title: "Self-reflection-1-krzywicki"
+format: html
+---
+
+<span style="color: blue;">Questions About you
+
+Please tell me a little bit about your research interests and how you imagine integrating spatial data in your research.
+
+I am studying how global land use change affects local sense of place through the lens of migratory networks. I envision using spatial data to compare and contrast sites along migratory bird networks.
+
+How do you learn best, and what do you feel is your biggest strength as a student?
+
+I am more of a words person than a visual learner, so maps don't always come the easiest to me! I am excited to push myself this semester.
+
+If you want to, you can set a goal for this semester for something you want to work on in the context of this course (outside of the topic matter itself) -- for example, using StackOverflow to get answers to analysis questions or using git to track progress on homeworks. If you choose to set this type of goal, what can you do to help support yourself in working toward that goal? How can I help you to meet this goal?
+
+You can, if you choose, also let me know if there is anything else you have going on this semester that you would like me to know about (e.g., field work, other courses, prepping your qualifying exam, working outside of assistantship).
+
+This Course
+
+Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
+
+I used R in Biometry and Eco Stats last year. Those were my first exposures to it. I would describe myself as "familiarish but not confident". My favorite thing about it so far is the powerful and flexible data visualization features. As someone who spent years making graphs in excel for reports, I really appreciate ggplot.
+
+I think my biggest obstacle is syntax issues and remembering the steps I need to take to get things done. I could be a better annotator.
+
+Describe your experience working with spatial data and GIS (either in R, or ArcGIS, or QGIS etc.). How do you tend to use spatial data (e.g., making maps, designing field sampling, building statistical models)?
+
+I don't have much experience with spatial data! I would say the closest thing would be making maps in google earth of research site locations for funder reports from bird monitoring projects.
+
+For my dissertation, I anticipate potentially using spatial data for making maps or building statistical models.
+
+How do you feel about taking this course (e.g., neutral, positive, negative) and why (e.g., aspects you are worried about, or looking forward to)?
+
+Positive! A little apprehensive because I would not describe spatial thinking or statistics as my strong suit. But that's why I'm here to learn!
+
+After reviewing the syllabus, give some thought to your objectives for this course. Which parts of this course are going to be most useful to your research? What skills do you really want to focus on during the semester? Once you've given this some thought, craft 3-5 SMART objectives for you in this course. SMART objectives are Specific (e.g., I want to make maps in R), Measurable (e.g., I want to build 3 maps displaying different elements of a location in R), Achievable (e.g., I want to build 3 maps displaying different elements of a location using ggplot), Relevant (e.g., I want to build 3 maps displaying social and ecological elements of a location using ggplot), and Time-bound (e.g., I want to build 3 maps displaying social and ecological elements of a location using ggplot for the final project). Try to think about your overall objectives for the course so that we can use to assess your final project. Remember, these objectives should be based in where you are now and where you'd like to be when the course ends. If you're not sure how to answer this, schedule a meeting with me to chat about it.
+
+I want to build 1 map showing social and ecological elements along the flyway of a migratory bird.
+
+I want to make 1 map comparing human movement and bird movement across the US/Mexico border.
+
+Given the grading 'contracts' laid out in the syllabus and your objectives above, what grade would you like to achieve in this course? How will you support yourself in achieving this grade? How can I help?
+
+A/B
+
+Are there topics on the syllabus that are particularly important for you? What is missing?
+
+Final Thoughts
+
+Is there anything else you'd like me to know about you or that you want to know about the course? </span>
